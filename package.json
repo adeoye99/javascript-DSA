@@ -1,0 +1,28 @@
+{
+  "name": "javascript-dsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeoye99/javascript-DSA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeoye99/javascript-DSA/issues"
+  },
+  "homepage": "https://github.com/adeoye99/javascript-DSA#readme",
+  "dependencies": {
+    "@codewars/test-compat": "^1.1.0",
+    "chai": "^4.3.7",
+    "jest": "^29.3.1"
+  }
+}
