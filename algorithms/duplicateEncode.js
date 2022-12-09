@@ -3,7 +3,8 @@ function duplicateEncode(word){
      const myWord = word.toUpperCase()
    
      for (let i = 0 ; i < myWord.length ; i++){
-        
+        // console.log(myWord.lastIndexOf(myWord[i]))
+        // console.log(myWord.indexOf(myWord[i]))
         if(myWord.indexOf(myWord[i]) === myWord.lastIndexOf(myWord[i])){
             count += "("
         

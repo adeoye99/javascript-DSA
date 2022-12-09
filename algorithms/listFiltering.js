@@ -9,4 +9,4 @@ function filter_list(l) {
   }
 
   filter_list([1,'a','b',0,15])
-  module.exports = filter_listus 
+  module.exports = filter_list
